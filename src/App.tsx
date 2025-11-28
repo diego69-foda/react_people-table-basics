@@ -12,9 +12,9 @@ export const App = () => (
     >
       <div className="container">
         <div className="navbar-brand">
-          <a className="navbar-item" href="#/">
+          <link className="navbar-item" href="#/">
             Home
-          </a>
+          </link>
 
           <a
             className="navbar-item has-background-grey-lighter"
