@@ -16,12 +16,12 @@ export const App = () => (
             Home
           </link>
 
-          <a
+          <link
             className="navbar-item has-background-grey-lighter"
             href="#/people"
           >
             People
-          </a>
+          <link>
         </div>
       </div>
     </nav>
