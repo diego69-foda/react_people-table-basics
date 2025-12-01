@@ -21,7 +21,7 @@ export const App = () => (
             href="#/people"
           >
             People
-          <link>
+          </link>
         </div>
       </div>
     </nav>
